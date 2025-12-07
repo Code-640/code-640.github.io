@@ -80,3 +80,33 @@
     transform: translate3d(10px, 0, 0) scale(1.2);
   }
 }
+
+@theme {
+  --color-brand-50: #e8f7d7;
+  --color-brand-100: #d5efb8;
+  --color-brand-200: #b2e283;
+  --color-brand-300: #8cd64e;
+  --color-brand-400: #6dc626;
+  --color-brand-500: #52b014;
+  --color-brand-600: #3f9126;
+  --color-brand-700: #2f7425;
+  --color-brand-800: #1f5520;
+  --color-brand-900: #0b3a17;
+  --color-brand-950: #05240d;
+  --font-oswald: "Oswald", sans-serif;
+  --font-army: "Army", sans-serif;
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: url("/src/assets/fonts/Oswald-Stencil.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Army";
+  src: url("/src/assets/fonts/NCAA-Army-2015.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}

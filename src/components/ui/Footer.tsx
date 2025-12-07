@@ -25,7 +25,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Features
@@ -33,7 +33,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Integrations
@@ -41,7 +41,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Pricing &amp; Plans
@@ -49,7 +49,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Changelog
@@ -57,7 +57,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Our method
@@ -65,7 +65,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   User policy
@@ -79,7 +79,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   About us
@@ -87,7 +87,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Diversity &amp; Inclusion
@@ -95,7 +95,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Blog
@@ -103,7 +103,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Careers
@@ -111,7 +111,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Financial statements
@@ -125,7 +125,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Community
@@ -133,7 +133,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Terms of service
@@ -141,7 +141,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Report a vulnerability
@@ -157,7 +157,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Templates
@@ -165,7 +165,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Tutorials
@@ -173,7 +173,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Knowledge base
@@ -181,7 +181,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Learn
@@ -189,7 +189,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Cookie manager
@@ -203,11 +203,11 @@ export default function Footer() {
               <img src={logo} className="app-logo inline-block" alt="logo" width={200} />
             </div>
             <div className="text-sm">
-              <p className="mb-3 text-emerald-200/65">
+              <p className="mb-3 text-brand-200/65">
                 © code640.com
                 <span className="text-gray-700"> · </span>
                 <a
-                  className="text-emerald-200/65 transition hover:text-emerald-500"
+                  className="text-brand-200/65 transition hover:text-brand-500"
                   href="#0"
                 >
                   Terms
@@ -216,7 +216,7 @@ export default function Footer() {
               <ul className="inline-flex gap-1">
                 <li>
                   <a
-                    className="flex items-center justify-center text-emerald-500 transition hover:text-emerald-400"
+                    className="flex items-center justify-center text-brand-500 transition hover:text-brand-400"
                     href="#0"
                     aria-label="Twitter"
                   >
@@ -231,7 +231,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    className="flex items-center justify-center text-emerald-500 transition hover:text-emerald-400"
+                    className="flex items-center justify-center text-brand-500 transition hover:text-brand-400"
                     href="#0"
                     aria-label="Medium"
                   >
@@ -246,7 +246,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    className="flex items-center justify-center text-emerald-500 transition hover:text-emerald-400"
+                    className="flex items-center justify-center text-brand-500 transition hover:text-brand-400"
                     href="#0"
                     aria-label="Github"
                   >
